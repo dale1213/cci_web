@@ -1,0 +1,381 @@
+[
+  {
+    "date": "2026/05/13",
+    "time": "14:45",
+    "type": "Social",
+    "title": "WHITE NIGHT｜曼哈顿毕业季限定精选社交晚宴",
+    "tone": "bg-blue-50 text-columbia",
+    "active": true
+  },
+  {
+    "date": "2026/05/13",
+    "time": "14:44",
+    "type": "Social",
+    "title": "🤍 WHITE NIGHT · 曼哈顿毕业季白色之夜",
+    "tone": "bg-blue-50 text-columbia"
+  },
+  {
+    "date": "2026/05/13",
+    "time": "10:53",
+    "type": "Social",
+    "title": "WHITE NIGHT｜曼哈顿毕业季限定精选社交晚宴",
+    "tone": "bg-blue-50 text-columbia"
+  },
+  {
+    "date": "2026/05/13",
+    "time": "04:32",
+    "type": "Social",
+    "title": "🤍 WHITE NIGHT · 曼哈顿毕业季白色之夜",
+    "tone": "bg-blue-50 text-columbia"
+  },
+  {
+    "date": "2026/05/05",
+    "time": "09:15",
+    "type": "Macro View",
+    "title": "CCI宏观观点第十四期 | 美联储缩表的极限在哪里？理解沃什的新央行时代",
+    "tone": "bg-indigo-50 text-indigo-700"
+  },
+  {
+    "date": "2026/04/24",
+    "time": "18:13",
+    "type": "Competition",
+    "title": "Networking沙龙＋Stock Pitch Competition",
+    "tone": "bg-amber-50 text-amber-700"
+  },
+  {
+    "date": "2026/04/23",
+    "time": "16:32",
+    "type": "Competition",
+    "title": "CCI Networking沙龙 与 Stock Pitch Competition 诚邀到场",
+    "tone": "bg-amber-50 text-amber-700"
+  },
+  {
+    "date": "2026/04/23",
+    "time": "16:12",
+    "type": "Competition",
+    "title": "CCI Networking沙龙 与 Stock Pitch Competition 诚邀到场",
+    "tone": "bg-amber-50 text-amber-700"
+  },
+  {
+    "date": "2026/04/19",
+    "time": "19:30",
+    "type": "Competition",
+    "title": "CCI Stock Pitch Competition开放报名！",
+    "tone": "bg-amber-50 text-amber-700"
+  },
+  {
+    "date": "2026/04/14",
+    "time": "19:01",
+    "type": "Competition",
+    "title": "【哥大CCI · 首届赛事】Stock Pitch Competition 现正开放报名",
+    "tone": "bg-amber-50 text-amber-700"
+  },
+  {
+    "date": "2026/03/31",
+    "time": "20:39",
+    "type": "Campus",
+    "title": "免费美食+律师现场答疑，哥大线下薅羊毛，就在4/9！",
+    "tone": "bg-cyan-50 text-cyan-700"
+  },
+  {
+    "date": "2026/03/30",
+    "time": "19:37",
+    "type": "Interview",
+    "title": "【CCI访谈录第五期】对话Argo Venture Partners合伙人：VC“冒险之旅”背后是对未来的坚定信仰",
+    "tone": "bg-purple-50 text-purple-700"
+  },
+  {
+    "date": "2026/03/25",
+    "time": "12:05",
+    "type": "Partner Event",
+    "title": "友情转发｜近60名重磅嘉宾&售票开启|2026哈佛肯尼迪中国论坛",
+    "tone": "bg-slate-100 text-slate-700"
+  },
+  {
+    "date": "2026/03/25",
+    "time": "12:03",
+    "type": "Partner Event",
+    "title": "近60名重磅嘉宾&售票开启|2026哈佛肯尼迪中国论坛",
+    "tone": "bg-slate-100 text-slate-700"
+  },
+  {
+    "date": "2026/03/22",
+    "time": "20:24",
+    "type": "Recap",
+    "title": "CES Las Vegas 回忆录｜CCI 的一次集体记忆",
+    "tone": "bg-blue-50 text-columbia"
+  },
+  {
+    "date": "2026/03/05",
+    "time": "19:10",
+    "type": "Competition",
+    "title": "【北美联宣】第二届“光尘杯”北美创新创业大赛 | 项目招募！",
+    "tone": "bg-amber-50 text-amber-700"
+  },
+  {
+    "date": "2026/03/04",
+    "time": "20:37",
+    "type": "Video",
+    "title": "【访谈视频】逆周期猎手：紫金矿业如何掘金全球",
+    "tone": "bg-purple-50 text-purple-700"
+  },
+  {
+    "date": "2026/03/04",
+    "time": "07:03",
+    "type": "Interview",
+    "title": "【CCI访谈录第四期】逆周期猎手：紫金矿业如何掘金全球",
+    "tone": "bg-purple-50 text-purple-700"
+  },
+  {
+    "date": "2026/02/06",
+    "time": "22:19",
+    "type": "Recruiting",
+    "title": "哥大华人投资社CCI春季招新",
+    "tone": "bg-emerald-50 text-emerald-700"
+  },
+  {
+    "date": "2026/01/31",
+    "time": "12:02",
+    "type": "Learning",
+    "title": "【CCI投资课堂】价值投资中的风险分析与管理——以联合医保（UNH）为例",
+    "tone": "bg-indigo-50 text-indigo-700"
+  },
+  {
+    "date": "2026/01/24",
+    "time": "08:01",
+    "type": "Interview",
+    "title": "【CCI访谈录第三期】从战略咨询到硅谷的“机会放大器“",
+    "tone": "bg-purple-50 text-purple-700"
+  },
+  {
+    "date": "2025/12/27",
+    "time": "21:54",
+    "type": "Partner Event",
+    "title": "【友情转发】哥大专业研究学院大中华区校友会运营团队2026招新启动！",
+    "tone": "bg-slate-100 text-slate-700"
+  },
+  {
+    "date": "2025/12/17",
+    "time": "12:59",
+    "type": "Recap",
+    "title": "融资结构的力量，CCI x iCross Capital纽约私募信贷分享会回顾",
+    "tone": "bg-blue-50 text-columbia"
+  },
+  {
+    "date": "2025/12/09",
+    "time": "14:42",
+    "type": "Recap",
+    "title": "融资结构的力量，CCI x iCross Capital纽约私募信贷分享会回顾",
+    "tone": "bg-blue-50 text-columbia"
+  },
+  {
+    "date": "2025/12/03",
+    "time": "13:22",
+    "type": "Learning",
+    "title": "【CCI投资课堂】利率债投资策略",
+    "tone": "bg-indigo-50 text-indigo-700"
+  },
+  {
+    "date": "2025/11/28",
+    "time": "04:27",
+    "type": "Welcome",
+    "title": "【25 Fall 迎新会】 | 相遇，从这里开始",
+    "tone": "bg-emerald-50 text-emerald-700"
+  },
+  {
+    "date": "2025/11/21",
+    "time": "10:40",
+    "type": "Social",
+    "title": "纽约金融与科技跨界青年精英- CCI x Elevate Circle NYC - Happy Hour 交流之夜",
+    "tone": "bg-blue-50 text-columbia"
+  },
+  {
+    "date": "2025/11/18",
+    "time": "14:38",
+    "type": "Speaker",
+    "title": "走进房地产私募信贷 - CCI x iCross专场讲座",
+    "tone": "bg-cyan-50 text-cyan-700"
+  },
+  {
+    "date": "2025/11/12",
+    "time": "15:30",
+    "type": "Partner Event",
+    "title": "【友情转发】【哥大戏剧节】｜Why Women Kill？穿透历史的怒吼《她愤怒》",
+    "tone": "bg-slate-100 text-slate-700"
+  },
+  {
+    "date": "2025/11/07",
+    "time": "22:27",
+    "type": "Interview",
+    "title": "【CCI访谈录第二期】加密货币轻松破译：对话Galaxy研究员",
+    "tone": "bg-purple-50 text-purple-700"
+  },
+  {
+    "date": "2025/09/22",
+    "time": "19:38",
+    "type": "Interview",
+    "title": "【CCI访谈录第一期】从 Citi 战略金融看未来：大厂竞争中的定位与职业趋势",
+    "tone": "bg-purple-50 text-purple-700"
+  },
+  {
+    "date": "2025/09/16",
+    "time": "12:29",
+    "type": "Recruiting",
+    "title": "【CCI秋季招新】加入CCI，开启你的哥大金融求职之路！",
+    "tone": "bg-emerald-50 text-emerald-700"
+  },
+  {
+    "date": "2025/09/08",
+    "time": "10:49",
+    "type": "Career",
+    "title": "金融求职不迷路：学长学姐带你看透纽约香港内地招聘",
+    "tone": "bg-emerald-50 text-emerald-700"
+  },
+  {
+    "date": "2025/07/11",
+    "time": "15:59",
+    "type": "Recruiting",
+    "title": "【CCI 秋季招新】从纽约实习到投资成长 | 加入CCI，开启你的哥大金融之路",
+    "tone": "bg-emerald-50 text-emerald-700"
+  },
+  {
+    "date": "2025/06/30",
+    "time": "14:41",
+    "type": "Partner Event",
+    "title": "【友情转发】倒计时3天「2025·格物之旅Venture Trek」上海站参访机构公示",
+    "tone": "bg-slate-100 text-slate-700"
+  },
+  {
+    "date": "2025/04/27",
+    "time": "17:34",
+    "type": "Trip",
+    "title": "【CCI春季活动系列·与巴菲特相见】2025年奥马哈投资盛宴之旅：探索巴菲特智慧、投资与人文深度体验",
+    "tone": "bg-amber-50 text-amber-700"
+  },
+  {
+    "date": "2025/04/24",
+    "time": "23:56",
+    "type": "Recap",
+    "title": "精彩回顾｜CCI联合国女性领导力论坛：从她领袖到女性AI",
+    "tone": "bg-blue-50 text-columbia"
+  },
+  {
+    "date": "2025/04/09",
+    "time": "09:09",
+    "type": "Partner Event",
+    "title": "【友情转发】【倒计时1周，现场票即将售罄！】4/12 哥大商学院2025中国峰会不见不散！",
+    "tone": "bg-slate-100 text-slate-700"
+  },
+  {
+    "date": "2025/03/29",
+    "time": "23:17",
+    "type": "Partner Event",
+    "title": "【友情转发】NYU 中美高峰论坛 | 法律护航 + AI 破局，赋能在美企业家全球化发展",
+    "tone": "bg-slate-100 text-slate-700"
+  },
+  {
+    "date": "2025/03/14",
+    "time": "10:57",
+    "type": "Leadership",
+    "title": "从她领袖到女性AI｜CCI女性领导力、投资与可持续发展专场",
+    "tone": "bg-pink-50 text-pink-700"
+  },
+  {
+    "date": "2025/02/18",
+    "time": "00:28",
+    "type": "Welcome",
+    "title": "CCI新生见面会｜与你相见，共创新篇",
+    "tone": "bg-emerald-50 text-emerald-700"
+  },
+  {
+    "date": "2025/02/17",
+    "time": "16:00",
+    "type": "Partner Event",
+    "title": "【友情转发】论坛售票｜「融彻捭阖」2025牛津中国论坛线下论坛",
+    "tone": "bg-slate-100 text-slate-700"
+  },
+  {
+    "date": "2025/02/13",
+    "time": "16:38",
+    "type": "Partner Event",
+    "title": "【友情转发】论坛揭幕｜「融彻捭阖」2025牛津中国论坛线下论坛预告",
+    "tone": "bg-slate-100 text-slate-700"
+  },
+  {
+    "date": "2024/12/02",
+    "time": "22:36",
+    "type": "Partner Event",
+    "title": "【友情转发】【CGELA TALK第八期】对话中概股女王、科技创新专家：决胜求学与就业之路",
+    "tone": "bg-slate-100 text-slate-700"
+  },
+  {
+    "date": "2024/11/17",
+    "time": "19:00",
+    "type": "Career",
+    "title": "2024英美45校海外联合校招活动",
+    "tone": "bg-emerald-50 text-emerald-700"
+  },
+  {
+    "date": "2024/11/15",
+    "time": "19:02",
+    "type": "Career",
+    "title": "川普2.0时代H1b开启地狱模式，留美生存全指南",
+    "tone": "bg-emerald-50 text-emerald-700"
+  },
+  {
+    "date": "2024/11/13",
+    "time": "19:00",
+    "type": "Career",
+    "title": "【求职分享会】如何一小时拿下投行面试和投资估值DCF",
+    "tone": "bg-emerald-50 text-emerald-700"
+  },
+  {
+    "date": "2024/10/28",
+    "time": "19:00",
+    "type": "Partner Event",
+    "title": "【友情转发】【CGELA TALK秋季论坛报名即日启动】限100位名额，赶快锁定与特邀嘉宾交流的机会吧！",
+    "tone": "bg-slate-100 text-slate-700"
+  },
+  {
+    "date": "2024/10/24",
+    "time": "12:03",
+    "type": "Career",
+    "title": "2024英美30校海外联合校招活动",
+    "tone": "bg-emerald-50 text-emerald-700"
+  },
+  {
+    "date": "2024/10/23",
+    "time": "23:20",
+    "type": "Competition",
+    "title": "光尘科创×上海青浦 北美创赛报名倒计时",
+    "tone": "bg-amber-50 text-amber-700"
+  },
+  {
+    "date": "2024/10/21",
+    "time": "21:59",
+    "type": "Career",
+    "title": "2024英美30校海外联合校招活动",
+    "tone": "bg-emerald-50 text-emerald-700"
+  },
+  {
+    "date": "2024/10/12",
+    "time": "13:30",
+    "type": "Career",
+    "title": "【求职分享 | TCFA专场】来听听专属你的职业建议！",
+    "tone": "bg-emerald-50 text-emerald-700"
+  },
+  {
+    "date": "2024/10/10",
+    "time": "20:00",
+    "type": "Learning",
+    "title": "每周一小时，带你成为对冲基金分析师",
+    "tone": "bg-indigo-50 text-indigo-700"
+  },
+  {
+    "date": "2024/10/08",
+    "time": "21:25",
+    "type": "Partner Event",
+    "title": "【友情宣发 | 金秋游园会】待到秋来“九月九”｜国风游园会Last Call!",
+    "tone": "bg-slate-100 text-slate-700"
+  }
+]
