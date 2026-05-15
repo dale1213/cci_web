@@ -1,13 +1,14 @@
 import { CalendarDays, Landmark } from "lucide-react";
 import Image from "next/image";
 import Link from "next/link";
+import { assetPath } from "@/lib/paths";
 
 export function HeroSection() {
   return (
     <section className="relative overflow-hidden border-b border-line bg-white">
       <div className="absolute inset-0">
         <Image
-          src="/assets/columbia_big_picture.png"
+          src={assetPath("/assets/columbia_big_picture.png")}
           alt="Columbia campus architecture"
           fill
           priority

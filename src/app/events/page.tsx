@@ -14,6 +14,7 @@ import {
 } from "lucide-react";
 import Image from "next/image";
 import { latestEvents } from "@/lib/events";
+import { assetPath } from "@/lib/paths";
 
 const calendarDays = [
   ["", "", "", "", "", "1", "2"],
@@ -46,7 +47,7 @@ export default function EventsPage() {
       <section className="relative overflow-hidden border-b border-line bg-white">
         <div className="absolute inset-y-0 right-0 hidden w-1/2 lg:block">
           <Image
-            src="/assets/columbia_big_picture.png"
+            src={assetPath("/assets/columbia_big_picture.png")}
             alt="Columbia campus architecture"
             fill
             priority
